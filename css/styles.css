@@ -1,8 +1,12 @@
 img {
   float: left;
-  height: 150;
-  width: 175;
-  padding: 200px;
+  height: 125px;
+  padding: 20px;
+  text-align: center
+}
+
+.row {
+  float: left;
 
 }
 
@@ -12,7 +16,7 @@ img {
   float: right;
   color: red;
   border: 2px solid red;
-  padding: 4px;
+  padding: 15px;
   background-color: gray;
 
 }
