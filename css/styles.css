@@ -1,11 +1,18 @@
 img {
   float: left;
-  height: 200;
-  width: 275;
+  height: 150;
+  width: 175;
+  padding: 200px;
+
 }
+
 
 .sidebar {
   width: 30%;
   float: right;
   color: red;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: gray;
+
 }
