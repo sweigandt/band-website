@@ -1,7 +1,11 @@
 img {
   float: left;
+  height: 200;
+  width: 275;
 }
 
-img{
-  
+.sidebar {
+  width: 30%;
+  float: right;
+  color: red;
 }
